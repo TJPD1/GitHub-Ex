@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A30F4EC921961E99001D8DC0 /* Digital-Art-Dragon-vvlkn_by_alectorfencer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A30F4EC821961E99001D8DC0 /* Digital-Art-Dragon-vvlkn_by_alectorfencer.jpg */; };
 		A3CA50E62194E42100140DC8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3CA50E52194E42100140DC8 /* AppDelegate.swift */; };
 		A3CA50E82194E42100140DC8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3CA50E72194E42100140DC8 /* ViewController.swift */; };
 		A3CA50EB2194E42100140DC8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3CA50E92194E42100140DC8 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A30F4EC821961E99001D8DC0 /* Digital-Art-Dragon-vvlkn_by_alectorfencer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Digital-Art-Dragon-vvlkn_by_alectorfencer.jpg"; path = "../../../../Downloads/Digital-Art-Dragon-vvlkn_by_alectorfencer.jpg"; sourceTree = "<group>"; };
 		A3CA50E22194E42100140DC8 /* GitHub Ex.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GitHub Ex.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3CA50E52194E42100140DC8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A3CA50E72194E42100140DC8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				A3CA50E52194E42100140DC8 /* AppDelegate.swift */,
 				A3CA50E72194E42100140DC8 /* ViewController.swift */,
 				A3CA50E92194E42100140DC8 /* Main.storyboard */,
+				A30F4EC821961E99001D8DC0 /* Digital-Art-Dragon-vvlkn_by_alectorfencer.jpg */,
 				A3CA50EC2194E42300140DC8 /* Assets.xcassets */,
 				A3CA50EE2194E42300140DC8 /* LaunchScreen.storyboard */,
 				A3CA50F12194E42300140DC8 /* Info.plist */,
@@ -124,6 +127,7 @@
 			files = (
 				A3CA50F02194E42300140DC8 /* LaunchScreen.storyboard in Resources */,
 				A3CA50ED2194E42300140DC8 /* Assets.xcassets in Resources */,
+				A30F4EC921961E99001D8DC0 /* Digital-Art-Dragon-vvlkn_by_alectorfencer.jpg in Resources */,
 				A3CA50EB2194E42100140DC8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
